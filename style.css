@@ -1,0 +1,72 @@
+body {
+    background: linear-gradient(#f587ff 0%, #ff4f7e 100%);
+    font-family: 'MedievalSharp', cursive;
+}
+
+#p1 {
+    background-color: aliceblue;
+    width: auto;
+    height: 40px;
+    margin-left: -50px;
+    margin-top: -1px;
+}
+
+#p2 {
+    background-color: aliceblue;
+    width: 500px;
+    height: 40px;
+    margin-left: 50px;
+    margin-top: -1px;
+}
+
+#p3 {
+    background-color: aliceblue;
+    width: 500px;
+    height: 40px;
+    margin-left: -50px;
+    margin-top: -4px;
+}
+
+#p4 {
+    background-color: aliceblue;
+    width: 500px;
+    height: 40px;
+    margin-left: -50px;
+    margin-top: -4px;
+}
+
+#img1 {
+    width: 500px;
+    margin-left: -50px;
+}
+
+#img2 {
+    width: 500px;
+    height: 260px;
+    margin-right: -50px
+}
+
+#img3 {
+    width: 500px;
+    height: 260px;
+    margin-right: 50px;
+    margin-bottom: 4px;
+}
+
+#img4 {
+    width: 500px;
+    height: 260px;
+    margin-right: 50px;
+    margin-bottom: 4px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: aliceblue;
+}
